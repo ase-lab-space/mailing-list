@@ -12,7 +12,7 @@ export const forwardingEmailMap: ForwardingEmailMap = {
 		'suzumejiro8@gmail.com',
 		'kazuki.fujita8823@gmail.com',
 	],
-	'astrocampe@ase-lab.space': [
+	'astrocamp@ase-lab.space': [
 		'maya.abe.crescent@gmail.com', //MaAbe
 		'spes.2012skicem@gmail.com', //MeKanda
 		'kazuki.fujita8823@gmail.com', //KaFujita
