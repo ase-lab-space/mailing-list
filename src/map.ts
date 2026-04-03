@@ -19,5 +19,7 @@ export const forwardingEmailMap: ForwardingEmailMap = {
 		'spring.snowman0625@gmail.com', //YuImaizumi
 		'mt20ut327@gmail.com', //TaMiyazaki
 		'suzumejiro8@gmail.com', //ShWatanabe
+		'yuhkichatnoir@gmail.com', //YuNamba
+		'ysntera@gmail.com', //YoTeramoto
 	],
 };
