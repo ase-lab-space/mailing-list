@@ -21,5 +21,6 @@ export const forwardingEmailMap: ForwardingEmailMap = {
 		'suzumejiro8@gmail.com', //ShWatanabe
 		'yuhkichatnoir@gmail.com', //YuNamba
 		'ysntera@gmail.com', //YoTeramoto
+		'sakurakkuma3114@gmail.com' //SaHayakawa
 	],
 };
